@@ -60,4 +60,4 @@ Command | response |
 
 ![psc1](https://user-images.githubusercontent.com/74818141/152890608-c4c60786-44ff-4c4e-bedf-fe8d783c2551.png)
 
-writed with python with Qt5 can be used in Linux and Windows
+writed with python and Qt5 can be used in Linux and Windows

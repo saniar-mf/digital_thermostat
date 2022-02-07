@@ -1082,7 +1082,7 @@ class Ui_MainWindow(object):
             "MainWindow", "<html><head/><body><p>Connect</p></body></html>"))
         self.tabWidget.setTabText(self.tabWidget.indexOf(
             self.Connection), _translate("MainWindow", "Connection"))
-        self.LB_About.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\">Made with <span style=\" color:#ff585b;\">Love</span> by <span style=\" color:#a0ff60;\">Mohammad Mofidi </span></p><p align=\"center\">#2 <span style=\" color:#00b3ff;\">Technical</span> university of <span style=\" color:#00d8b4;\">Tabriz</span>/Iran<span style=\" font-size:8pt; color:#78abf7;\">/Asia/Earth/S</span><span style=\" font-family:\'Hack\'; font-size:8pt; color:#78abf7;\">olarSystem/MilkyWay &amp;...:)</span></p><p align=\"center\"><a href=\"https://github.com/saniar-mf/\"><span style=\" text-decoration: underline; color:#e28c01;\">https://github.com/saniar-mf/</span></a></p><p align=\"center\">©GNU License</p></body></html>"))
+        self.LB_About.setText(_translate("MainWindow", "<html><head/><body><p align=\"center\">Made with <span style=\" color:#ff585b;\">Love</span> by <span style=\" color:#a0ff60;\">Saniar Mf </span></p><p align=\"center\"><span style=\" color:#00b3ff;\"></span>  </span><span style=\" font-family:\'Hack\'; font-size:8pt; color:#78abf7;\"></span></p><p align=\"center\"><a href=\"https://github.com/saniar-mf/\"><span style=\" text-decoration: underline; color:#e28c01;\">https://github.com/saniar-mf/</span></a></p><p align=\"center\">©GNU License</p></body></html>"))
         self.tabWidget.setTabText(self.tabWidget.indexOf(
             self.About), _translate("MainWindow", "About"))
 
